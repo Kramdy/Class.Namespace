@@ -1,0 +1,6 @@
+D:\С#\DZ_Module4_Namespaces\bin\Debug\DZ_Module4_Namespaces.exe
+D:\С#\DZ_Module4_Namespaces\bin\Debug\DZ_Module4_Namespaces.pdb
+D:\С#\DZ_Module4_Namespaces\obj\Debug\DZ_Module4_Namespaces.csproj.AssemblyReference.cache
+D:\С#\DZ_Module4_Namespaces\obj\Debug\DZ_Module4_Namespaces.csproj.CoreCompileInputs.cache
+D:\С#\DZ_Module4_Namespaces\obj\Debug\DZ_Module4_Namespaces.exe
+D:\С#\DZ_Module4_Namespaces\obj\Debug\DZ_Module4_Namespaces.pdb
